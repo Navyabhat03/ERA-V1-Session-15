@@ -8,7 +8,8 @@
 
 
 ### Results
-![image](https://github.com/RaviNaik/ERA-SESSION15/assets/23289802/686670d4-e142-498f-9329-ffc7a72da57f)
+![image](https://github.com/Navyabhat03/ERA-V1-Session-15/assets/60884505/f70df82d-f446-4ada-b2fc-f0b7aa7cde25)
+
 **Note:** Detailed results are presnt in results folder as a CSV file
 
 ### Model Summary
@@ -44,15 +45,19 @@
 ```
 ### Loss & Other Metrics
 **Training Loss:**
-![image](https://github.com/RaviNaik/ERA-SESSION15/assets/23289802/add4a735-9e52-4c4d-8af7-a79289f3f974)
+![image](https://github.com/Navyabhat03/ERA-V1-Session-15/assets/60884505/ca08c5c5-5315-44a8-b5f1-da9cf0db9702)
 
 **CER, WER & BLEU Score:**
-![image](https://github.com/RaviNaik/ERA-SESSION15/assets/23289802/20cd3e25-f4cc-420a-82f8-8e472a9fd554)
+![image](https://github.com/Navyabhat03/ERA-V1-Session-15/assets/60884505/139011c1-187b-4fd6-8d03-3eac18490249)
 
 ### Tensorboard Plots 
-![image](https://github.com/RaviNaik/ERA-SESSION15/assets/23289802/61517ac4-9abf-438e-93bd-cf16694a620a)
-![image](https://github.com/RaviNaik/ERA-SESSION15/assets/23289802/776de3ae-6c94-40aa-bc69-10b19646ff5d)
-![image](https://github.com/RaviNaik/ERA-SESSION15/assets/23289802/549f6bf7-fbcf-41d2-8f6a-356415d32df2)
-![image](https://github.com/RaviNaik/ERA-SESSION15/assets/23289802/be6343d4-0e42-4d72-af14-92b49ac6e844)
+![image](https://github.com/Navyabhat03/ERA-V1-Session-15/assets/60884505/1747504f-2d38-4da4-bfc5-3c3a5853022a)
+
+![image](https://github.com/Navyabhat03/ERA-V1-Session-15/assets/60884505/c144b6fd-6b73-4374-bfc0-9238e0167293)
+
+![image](https://github.com/Navyabhat03/ERA-V1-Session-15/assets/60884505/19edad0e-ffce-4d66-b8fb-084af39337cd)
+
+![image](https://github.com/Navyabhat03/ERA-V1-Session-15/assets/60884505/3412885f-4cc7-4cde-b53d-271e2372ef9e)
+
 
 
