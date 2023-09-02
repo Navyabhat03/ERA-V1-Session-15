@@ -1,4 +1,4 @@
-# ERA-SESSION15 Vanilla Transformer Implementation in PytorchLightning
+# ERA-SESSION15
 
 ### Achieved:
 1. **Training Loss: 2.920**
@@ -6,10 +6,6 @@
 3. **BLEU Score: 0.000**
 4. **WER Score: 1.080**
 
-### Tasks:
-1. :heavy_check_mark: Rewrite the whole code covered in the class in Pytorch-Lightning
-2. :heavy_check_mark: Train the model for 10 epochs
-3. :heavy_check_mark: Achieve a loss of less than 4
 
 ### Results
 ![image](https://github.com/RaviNaik/ERA-SESSION15/assets/23289802/686670d4-e142-498f-9329-ffc7a72da57f)
